@@ -13,5 +13,10 @@ URL: https://www.pro-football-reference.com/
 
 ## Tools
 Data files created and cleaned in Excel.
-Will create data tables using SQL to create a singular table for each position group.
+Will create data tables using PostgreSQL to create a singular table for each position group.
 Tableau
+
+
+### 1. Loading Data into PostgreSQL and cleaning database created
+
+Files for regular passing statistics and advanced passing statistics combined in db to create a table for all passing stats.
