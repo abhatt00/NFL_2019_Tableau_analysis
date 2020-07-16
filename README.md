@@ -19,4 +19,7 @@ Tableau
 
 ### 1. Loading Data into PostgreSQL and cleaning database created
 
-Files for regular passing statistics and advanced passing statistics combined in db to create a table for all passing stats.
+Files for regular passing statistics and advanced passing statistics loaded into individual tables.
+Files for regular receiving statistics and advanced receiving statistics loaded into individual tables.
+Files for regular rushing statistics and advanced rushing statistics loaded into individual tables.
+

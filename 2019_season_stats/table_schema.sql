@@ -36,3 +36,82 @@ create table NFL_passing_stats (
 
 select * from NFL_passing_stats;
 
+
+drop table NFL_passing_stats_advanced;
+
+create table NFL_passing_stats_advanced (
+	"player" varchar(30) not null,
+	"team" varchar(5) not null,
+	"age" int not null,
+	"position" text not null,
+	"g" int not null,
+	"gs" int not null,
+	"completions" int not null,
+	"attempts" int not null,
+	"yards" int not null, 
+	"IAY" decimal not null, 
+	"IAY/PA" decimal not null,
+	"CAY" int not null, 
+	"CAY/cmp" decimal not null, 
+	"CAY/PA" decimal, 
+	"YAC" int, 
+	"YAC/cmp" decimal
+);
+
+select * from NFL_passing_stats_advanced;
+
+
+drop table NFL_receiving_stats;
+
+create table NFL_receiving_stats (
+	"player" varchar(30) not null,
+	"team" varchar(5) not null,
+	"age" int not null,
+	"position" text,
+	"g" int not null,
+	"gs" int not null,
+	"tgt" int not null,
+	"rec" int not null,
+	"ctch%" decimal not null,
+	"yards" int not null, 
+	"Y/R" decimal not null, 
+	"td" int not null, 
+	"1D" int not null, 
+	"Lng" int not null, 
+	"Y/Tgt" decimal not null, 
+	"R/G" decimal, 
+	"Y/G" decimal, 
+	"Fmb" int
+);
+
+--view table columns
+
+select * from NFL_receiving_stats;
+
+
+drop table NFL_receiving_stats_advanced;
+
+create table NFL_receiving_stats_advanced (
+	"player" varchar(30) not null,
+	"team" varchar(5) not null,
+	"age" int not null,
+	"position" text,
+	"g" int not null,
+	"gs" int not null,
+	"tgt" int not null,
+	"rec" int not null,
+	"yards" int not null, 
+	"1D" int not null, 
+	"YBC" int not null, 
+	"YBC/R" decimal not null,
+	"YAC" int not null,	
+	"YAC/R" decimal not null,
+	"Broken Tackles" int not null, 
+	"Rec/BR" decimal, 
+	"Drops" int,
+	"Drop%" decimal
+);
+
+--view table columns
+
+select * from NFL_receiving_stats_advanced;
