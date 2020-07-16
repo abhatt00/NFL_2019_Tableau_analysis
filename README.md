@@ -23,3 +23,4 @@ Files for regular passing statistics and advanced passing statistics loaded into
 Files for regular receiving statistics and advanced receiving statistics loaded into individual tables.
 Files for regular rushing statistics and advanced rushing statistics loaded into individual tables.
 
+Tables for regular stats and advanced stats combined to make one respective table for each offensive statistical category.

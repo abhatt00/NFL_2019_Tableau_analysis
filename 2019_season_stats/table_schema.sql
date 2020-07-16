@@ -115,3 +115,52 @@ create table NFL_receiving_stats_advanced (
 --view table columns
 
 select * from NFL_receiving_stats_advanced;
+
+
+drop table NFL_rushing_stats;
+
+create table NFL_rushing_stats (
+	"player" varchar(30) not null,
+	"team" varchar(5) not null,
+	"age" int not null,
+	"position" text,
+	"g" int not null,
+	"gs" int not null,
+	"attempts" int not null,
+	"yards" int not null, 
+	"TD" int not null, 
+	"1D" int not null, 
+	"Lng" int not null, 
+	"Y/A" decimal not null, 
+	"Y/G" decimal, 
+	"Fmb" int
+);
+
+--view table columns
+
+select * from NFL_rushing_stats;
+
+
+drop table NFL_rushing_stats_advanced;
+
+create table NFL_rushing_stats_advanced (
+	"player" varchar(30) not null,
+	"team" varchar(5) not null,
+	"age" int not null,
+	"position" text,
+	"g" int not null,
+	"gs" int not null,
+	"attempts" int not null,
+	"yards" int not null, 
+	"1D" int not null, 
+	"YBC" int not null, 
+	"YBC/att" decimal not null,
+	"YAC" int not null,	
+	"YAC/att" decimal not null,
+	"Broken Tackles" int not null, 
+	"Att/BR" decimal
+);
+
+--view table columns
+
+select * from NFL_rushing_stats_advanced;
