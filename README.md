@@ -12,15 +12,22 @@ URL: https://www.pro-football-reference.com/
 (2019 Season statistics)
 
 ## Tools
-Data files created and cleaned in Excel.
-Will create data tables using PostgreSQL to create a singular table for each position group.
-Tableau
+
+* Microsoft Excel
+* PostgreSQL
+* Tableau
+
 
 
 ### 1. Loading Data into PostgreSQL and cleaning database created
 
-Files for regular passing statistics and advanced passing statistics loaded into individual tables.
-Files for regular receiving statistics and advanced receiving statistics loaded into individual tables.
-Files for regular rushing statistics and advanced rushing statistics loaded into individual tables.
+Files cleaned for each dataset in Excel. Create data tables using PostgreSQL to create a singular table for each position group.
+Tableau
 
-Tables for regular stats and advanced stats combined to make one respective table for each offensive statistical category.
+* Files for regular passing statistics and advanced passing statistics loaded into individual tables.
+* Files for regular receiving statistics and advanced receiving statistics loaded into individual tables.
+* Files for regular rushing statistics and advanced rushing statistics loaded into individual tables.
+* Tables for regular stats and advanced stats combined to make one respective table for each offensive statistical category.
+
+* Once combined tables are created in database, all three are exported into new csv files.
+* New files with combined data to be used in Tableau.
