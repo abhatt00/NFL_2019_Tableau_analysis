@@ -29,5 +29,11 @@ Tableau
 * Files for regular rushing statistics and advanced rushing statistics loaded into individual tables.
 * Tables for regular stats and advanced stats combined to make one respective table for each offensive statistical category.
 
-* Once combined tables are created in database, all three are exported into new csv files.
+* Once combined tables are created in database, all three are exported into new Excel files.
 * New files with combined data to be used in Tableau.
+
+### 2. Creating a Tableau Dashboard
+
+* Import the newly exported Excel files into Tableau to create visualizations.
+
+### https://public.tableau.com/profile/abhatt12
