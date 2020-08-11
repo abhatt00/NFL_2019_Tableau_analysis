@@ -20,7 +20,7 @@ URL: https://www.pro-football-reference.com/
 
 
 
-### 1. Loading Data into PostgreSQL and cleaning database created
+### Loading Data into PostgreSQL and cleaning database created
 
 Files cleaned for each dataset in Excel. Create data tables using PostgreSQL to create a singular table for each position group.
 Tableau
@@ -33,8 +33,10 @@ Tableau
 * Once combined tables are created in database, all three are exported into new Excel files.
 * New files with combined data to be used in Tableau.
 
-### 2. Creating a Tableau Dashboard
+### Creating a Tableau Dashboard
 
 * Import the newly exported Excel files into Tableau to create visualizations.
+* 2019 Passing, Receiving, and Rushing statistics.
+    * Volume and efficiency statistics visualized.
 
 ### https://public.tableau.com/profile/abhatt12#!/vizhome/NFL2019_Stats_Dashboard/Sheet1 
