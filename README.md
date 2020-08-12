@@ -40,3 +40,30 @@ Tableau
     * Volume and efficiency statistics visualized.
 
 ### https://public.tableau.com/profile/abhatt12#!/vizhome/NFL2019_Stats_Dashboard/Sheet1 
+
+## Rankings in SQL
+
+### Passing Leaders by Category
+
+### Passing Yards
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+
+### Completion %
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+
+### Touchdown Passes and Touchdown %
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+
+### Yards per Pass Attempt
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+
+### Passing Yards per Game
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+
+### Most and Fewest Interceptions Thrown
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+
+### Interception %
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
+<img width=“500” alt=“” src="https://github.com/abhatt00/SQL_EmployeeSQL/blob/master/QuickDBD-ERD.png">
