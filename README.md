@@ -47,13 +47,18 @@ Tableau
 
 ### Passing Yards
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/1_passing_yards_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/1_passing_yards_leader_tableau.jpg">
 
 ### Completion %
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/2_cmp_pct_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/2_cmp_pct_leader_tableau.jpg">
 
 ### Touchdown Passes and Touchdown %
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/3_passing_td_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_passing_td_leader_tableau.jpg">
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/4_td_pct_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/4_td_pct_leader_tableau.jpg">
 
 ### Yards per Pass Attempt
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/5_yards_per_att_leader.jpg">
@@ -63,8 +68,26 @@ Tableau
 
 ### Most and Fewest Interceptions Thrown
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/7_interceptions_most.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/7_interceptions_most_tableau.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/8_interceptions_fewest.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/8_interceptions_fewest_tableau.jpg">
 
 ### Interception %
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/9_int_pct.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/10_int_pct_ascending.jpg">
+
+
+### Receiving Leaders by Category
+
+### Grouped by Age
+### WRs age 21-25 and age 26+ leaders in Yards/Target
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/1_receiving_leaders_yds_per_tgt_21_to_25_tableau.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/1_receiving_leaders_yds_per_tgt_26_and_above_tableau.jpg">
+
+### WRs age 21-25 and age 26+ leaders in Receptions
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/2_receiving_leaders_receptions_21_to_25_tableau.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/2_receiving_leaders_receptions_26_and_above_tableau.jpg">
+
+### WRs age 21-25 and age 26+ leaders in Receiving Yards
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_receiving_leaders_receiving_yds_21_to_25_tableau.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_receiving_leaders_receiving_yds_26_and_above_tableau.jpg">
