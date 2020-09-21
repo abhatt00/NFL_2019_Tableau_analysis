@@ -41,7 +41,9 @@ Tableau
 
 ### https://public.tableau.com/profile/abhatt12#!/vizhome/NFL2019_Stats_Dashboard/Sheet1 
 
-## Rankings in SQL
+
+
+## Rankings in SQL and Tableau Visualizations
 
 ### Passing Leaders by Category
 
@@ -91,3 +93,4 @@ Tableau
 ### WRs age 21-25 and age 26+ leaders in Receiving Yards
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_receiving_leaders_receiving_yds_21_to_25_tableau.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_receiving_leaders_receiving_yds_26_and_above_tableau.jpg">
+
